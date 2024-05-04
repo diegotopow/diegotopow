@@ -1,8 +1,13 @@
-# 👨🏻‍💻 Sobre mim:
-Profissional com mais de 15 anos de experiência na área de engenharia elétrica, realizando transição de carreira para a área de tecnologia. Atualmente cursando faculdade em Análise e Desenvolvimento de Sistemas.
-Apesar de ainda não possuir vivência profissional na área de Tech, em paralelo à faculdade, pude aprender e desenvolver projetos utilizando Java e C#, usando Spring Boot e .NET em alguns projetos, juntamente com OutSystems, Angular, Javascript e TypeScript, implementando também documentação de APIs com Swagger, testes com Selenium, além de precisar usar as aplicações em Contêiners locais ou hospedados remotamente.
+# 👨🏻‍💻 About me:
+Professional with more than 15 years of experience in the area of electrical engineering, making a career transition to the technology area.
+Currently graduated at college in Systems Analysis and Development. This is my first professional experience in the Tech area as Mulesoft API Developer, in parallel with college, I was able to learn and develop projects using Java and C#, using Spring Boot and .NET in some projects, along with OutSystems, Angular, Javascript and TypeScript, also implementing documentation of APIs with Swagger, testing with Selenium, in addition to needing to use applications in local or remotely hosted Containers.
 
-## 🌐 Redes sociais:
+GitHub: https://github.com/diegotopow
+
+SKILLS:
+Java; Spring Boot; C/ C# / .NET; Mulesoft/Salesforce/Apex; OutSystems; Swagger; SQL Server/MySQL; Linux; Docker/Kubernetes; Selenium; Trello; Text editors, spreadsheets and presentations;
+
+## 🌐 Social Networks:
 <a href = "mailto:diego.topow@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diego-topow" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/diegotopow) 
 
